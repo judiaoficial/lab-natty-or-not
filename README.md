@@ -14,13 +14,13 @@ Processamento de Áudio:
 Para a parte musical do projeto, aplicaremos técnicas de processamento de áudio para gerar melodias, harmonias e ritmos.
 
 ## 🧐 Processo de Criação
-###Treinamento do Modelo:
+### Treinamento do Modelo:
 Coletaremos dados relevantes, como textos, imagens e músicas, para treinar nossos modelos de IA. Isso envolverá o uso de conjuntos de dados diversificados e representativos.
-###Desenvolvimento do Gerador:
+### Desenvolvimento do Gerador:
 Criaremos um gerador de conteúdo baseado em GANs. Ele aprenderá a criar imagens, textos e músicas a partir dos padrões encontrados nos dados de treinamento.
-###Exploração Criativa:
+### Exploração Criativa:
 Experimentaremos diferentes configurações e hiperparâmetros para gerar resultados interessantes e inesperados. A criatividade será nossa bússola.
-###Avaliação e Ajustes:
+### Avaliação e Ajustes:
 Avaliaremos a qualidade das saídas geradas e faremos ajustes no modelo conforme necessário. A reflexão contínua será parte integrante do processo.
 
 ## 🚀 Resultados
