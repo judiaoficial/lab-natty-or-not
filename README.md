@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# “Metamorfose Criativa: Transformando Identidades com IA Generativa”
 
 ## 🚀 Introdução
 
