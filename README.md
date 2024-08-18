@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+O projeto “Metamorfose Criativa” visa explorar a capacidade da IA generativa para transformar identidades e criar novas narrativas. Inspirado pelo título “Você pode ser quem você quiser”, este projeto busca gerar arte, textos e música que desafiem as fronteiras da criatividade e da autenticidade.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
