@@ -1,6 +1,3 @@
-<iframe src="https://gamma.app/embed/iua2355k07qk67h" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="O que é Inteligência Artificial?"></iframe>
-
-
 # “IA Generativa: Explorando a Criatividade Além dos Limites”
 
 ## 📒 Descrição
@@ -21,6 +18,8 @@ Criar designs inovadores para produtos e interfaces.
 A IA generativa é uma ferramenta poderosa, moldando o futuro da criatividade e da inovação!
 
 ## 🤖 Tecnologias Utilizadas
+
+# <iframe src="https://gamma.app/embed/iua2355k07qk67h" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="O que é Inteligência Artificial?"></iframe>
 
 
 
