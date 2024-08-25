@@ -18,7 +18,7 @@ Criar designs inovadores para produtos e interfaces.
 A IA generativa é uma ferramenta poderosa, moldando o futuro da criatividade e da inovação!
 
 ## 🤖 Tecnologias Utilizadas
-https://gamma.app/embed/iua2355k07qk67h
+
 
 
 
