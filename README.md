@@ -5,6 +5,10 @@ A IA Generativa é uma área da inteligência artificial que se concentra em cri
 
 ## 🤖 Tecnologias Utilizadas
 Diversas tecnologias impulsionam a IA Generativa, cada uma com seus próprios princípios e aplicações.
+Para as soluções criativas deste e-book utilizei as IA Generativas,conforme relacionado abaixo:
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- Ferramenta **Libre Office** para edição.
 
 
 
