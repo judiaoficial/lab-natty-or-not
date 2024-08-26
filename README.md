@@ -16,3 +16,5 @@ Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+
+style=for-the-badge Discord-6B6D80
