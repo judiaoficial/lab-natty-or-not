@@ -1,7 +1,7 @@
-# “IA Generativa: Explorando a Criatividade Além dos Limites”
+# “IA Generativa: A revolução da criatividade computacional”
 
 ## 📒 Descrição
-A Inteligência Artificial Generativa (IA Generativa) é uma força criativa que transcende o convencional. Ela pode:
+A IA Generativa é uma área da inteligência artificial que se concentra em criar novos conteúdos, como textos, imagens, músicas e códigos.
 
 ## 🤖 Tecnologias Utilizadas
 
