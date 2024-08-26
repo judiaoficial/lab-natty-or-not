@@ -4,7 +4,7 @@
 A IA Generativa é uma área da inteligência artificial que se concentra em criar novos conteúdos, como textos, imagens, músicas e códigos.
 
 ## 🤖 Tecnologias Utilizadas
-
+Diversas tecnologias impulsionam a IA Generativa, cada uma com seus próprios princípios e aplicações.
 
 
 
