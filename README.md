@@ -18,7 +18,7 @@ No "Virbo" fiz upload das minhas fotos, e áudio da minha voz. Criei uma das min
 E para aperfeiçoamento da criação, utilizei o "InShot" e o "Vimeo" para gerar link do vídeo e agregar ao e-book feito no "Gamma".
 
 ## 🚀 Resultados
-[Clique Aqui](https://gamma.app/docs/IA-Generativa-8kq9syr0ezlhi19?mode=doc) e veja o resultado criativo e atraente.
+Acompanhe o resultado [Clique Aqui](https://gamma.app/docs/IA-Generativa-8kq9syr0ezlhi19?mode=doc)
 ## 💭 Reflexão (Opcional)
 
 
