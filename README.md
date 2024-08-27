@@ -7,7 +7,7 @@ A IA Generativa é uma área da inteligência artificial que se concentra em cri
 Diversas tecnologias impulsionam a IA Generativa, cada uma com seus próprios princípios e aplicações.
 Para as soluções criativas deste e-book utilizei as IA Generativas,conforme relacionado abaixo:
 - IA Generativa **[GAMMA](https://gamma.app/)** para criar um e-book roteirizado e atraente;
-- IA Generativa **[Virbo](https://virbo.wondershare.com/app/talkingphoto/)** para criar foto falante e transformar foto real em outros modelos, como por exemplo: anime;
+- IA Generativa **[Virbo](https://virbo.wondershare.com/app/talkingphoto/)** para criar foto falante com upload de áudio e transformar foto real em outros modelos, como por exemplo: anime;
 - Ferramenta **[InShot](https://inshot.com/)** para edição.
 
 ## 🧐 Processo de Criação
