@@ -16,8 +16,7 @@ No processo de criação do e-book, utilizei o "Gamma" para aprimorar as idéias
 No "Virbo" fiz upload das minhas fotos, e áudio da minha voz. Criei uma das minhas foto falantes e tranformei a outro no estilo anime. E para aperfeiçoamento da criação, utilizei o "InShot".
 
 ## 🚀 Resultados
-O resultado foi um e-book bem criativo e atraente.
+[Clique Aqui](https://gamma.app/docs/IA-Generativa-8kq9syr0ezlhi19?mode=doc) e veja o resultado criativo e atraente.
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 
 
