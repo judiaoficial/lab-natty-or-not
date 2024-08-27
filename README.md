@@ -12,7 +12,7 @@ Para as soluções criativas deste e-book utilizei as IA Generativas,conforme re
 
 ## 🧐 Processo de Criação
 No processo de criação do e-book, utilizei o "Gamma" para aprimorar as idéias referente IAs Generativas e estruturar de forma atraente.
-No "Virbo" fiz upload das minhas fotos, e de áudio da minha voz. Onde criei minha foto falante e tranformei uma em estilo anime. E para aperfeiçoamento da criação, utilizei o "InShot".
+No "Virbo" fiz upload das minhas fotos, e áudio da minha voz. Criei uma das minhas foto falantes e tranformei a outro no estilo anime. E para aperfeiçoamento da criação, utilizei o "InShot".
 
 ## 🚀 Resultados
 O resultado foi um e-book bem criativo e atraente.
