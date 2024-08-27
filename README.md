@@ -1,12 +1,13 @@
 # “IA Generativa: A revolução da criatividade computacional”
 
 ## 📒 Descrição
-A IA Generativa é uma área da inteligência artificial que se concentra em criar novos conteúdos, como textos, imagens, músicas e códigos.
+IA Generativa refere-se a um tipo de inteligência artificial que é capaz de criar novos conteúdos ou dados com base em padrões aprendidos a partir de dados existentes. Em vez de simplesmente analisar ou classificar informações, a IA generativa pode gerar texto, imagens, música, e outros tipos de mídia, que podem ser indistinguíveis de criações humanas.
+
 [Saiba Mais](https://aws.amazon.com/pt/what-is/generative-ai/)
 
 ## 🤖 Tecnologias Utilizadas
-Diversas tecnologias impulsionam a IA Generativa, cada uma com seus próprios princípios e aplicações.
-Para as soluções criativas deste e-book utilizei as IA Generativas,conforme relacionado abaixo:
+Essas tecnologias trabalham em conjunto para permitir que a IA generativa produza resultados criativos e variados, com aplicações que vão desde a criação de arte até a geração de texto automatizado e desenvolvimento de novos produtos.
+Para as soluções criativas deste e-book utilizei as tecnologias utilizadas foram:
 - IA Generativa **[GAMMA](https://gamma.app/)** para criar um e-book roteirizado e atraente;
 - IA Generativa **[Virbo](https://virbo.wondershare.com/app/talkingphoto/)** para criar foto falante com upload de áudio e transformar foto real em outros modelos, como por exemplo: anime;
 - Ferramenta **[InShot](https://inshot.com/)** para edição
