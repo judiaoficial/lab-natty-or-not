@@ -11,7 +11,7 @@ Para as soluções criativas deste e-book utilizei as seguintes tecnologias:
 - IA Generativa **[GAMMA](https://gamma.app/)** para criar um e-book roteirizado e atraente;
 - IA Generativa **[Virbo](https://virbo.wondershare.com/app/talkingphoto/)** para criar foto falante com upload de áudio e transformar foto real em outros modelos, como por exemplo: anime;
 - Ferramenta **[InShot](https://inshot.com/)** para edição
-- [Vimeo](https://vimeo.com/pt-br/) para gerar link do vídeo e integrar no GAMMA.
+- [Vimeo](https://vimeo.com/pt-br/) para gerar link do vídeo, o que torna possível integrar no GAMMA.
 
 ## 🧐 Processo de Criação
 No processo de criação do e-book, utilizei o "Gamma" para aprimorar as idéias referente IAs Generativas e estruturar de forma atraente.
