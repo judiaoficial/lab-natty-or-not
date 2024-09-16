@@ -7,7 +7,7 @@ IA Generativa refere-se a um tipo de inteligência artificial que é capaz de cr
 
 ## 🤖 Tecnologias Utilizadas
 Essas tecnologias trabalham em conjunto para permitir que a IA generativa produza resultados criativos e variados, com aplicações que vão desde a criação de arte até a geração de texto automatizado e desenvolvimento de novos produtos.
-Para as soluções criativas deste e-book utilizei as tecnologias utilizadas foram:
+Para as soluções criativas deste e-book utilizei as seguintes tecnologias:
 - IA Generativa **[GAMMA](https://gamma.app/)** para criar um e-book roteirizado e atraente;
 - IA Generativa **[Virbo](https://virbo.wondershare.com/app/talkingphoto/)** para criar foto falante com upload de áudio e transformar foto real em outros modelos, como por exemplo: anime;
 - Ferramenta **[InShot](https://inshot.com/)** para edição
